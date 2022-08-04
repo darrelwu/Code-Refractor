@@ -29,9 +29,12 @@ My motivation today is to alter the codebase so that it follows accessibility st
 * **Descriptive Title** All title elemnts are consise and contain an descriptive title. 
     1. The title element in the "head" has been changed to Horiseon Inc.
 
+* **CSS** All CSS source code is consolidated for easier understanding.
+
 * **What did I learn?** 
     1. I learned that the main image "hero" is an image inserted via CSS which requires no alt tag. 
     2. I learned that at span can be used to utilize to group id attributes for styling purposes. 
+    3. Grouping of CSS to improve the look and function of the source code. 
 
 
 
